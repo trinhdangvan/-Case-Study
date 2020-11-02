@@ -13,6 +13,5 @@ export default class Road {
         this.context.drawImage(this.road, 0, this.yOffset + 371);
         this.context.drawImage(this.road, 0, this.yOffset + 742);
         this.yOffset += 10;
-
     }
 }

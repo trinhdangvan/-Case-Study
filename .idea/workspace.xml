@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="209d7a7f-20ab-4617-b1cc-1856fc4f6366" name="Default Changelist" comment="" />
+    <list default="true" id="209d7a7f-20ab-4617-b1cc-1856fc4f6366" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarController.js" beforeDir="false" afterPath="$PROJECT_DIR$/CarController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyCar.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyCar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Racing.js" beforeDir="false" afterPath="$PROJECT_DIR$/Racing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomCar.js" beforeDir="false" afterPath="$PROJECT_DIR$/RandomCar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Road.js" beforeDir="false" afterPath="$PROJECT_DIR$/Road.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleHit.js" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleHit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car.html" beforeDir="false" afterPath="$PROJECT_DIR$/car.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +38,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jWz7GRrMXhQqSnylgBxLoPvSd6" />
   <component name="ProjectViewState">
@@ -32,6 +62,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,11 +78,34 @@
       <workItem from="1604023000483" duration="11162000" />
       <workItem from="1604043268151" duration="4846000" />
       <workItem from="1604052502939" duration="611000" />
+      <workItem from="1604108822442" duration="847000" />
+      <workItem from="1604127419850" duration="655000" />
+      <workItem from="1604193404841" duration="935000" />
+      <workItem from="1604195240105" duration="767000" />
+      <workItem from="1604197566091" duration="1701000" />
+      <workItem from="1604200065087" duration="568000" />
+      <workItem from="1604243987860" duration="3211000" />
+      <workItem from="1604277551383" duration="1679000" />
+      <workItem from="1604279784941" duration="2313000" />
+      <workItem from="1604282423917" duration="5951000" />
+      <workItem from="1604290296688" duration="1233000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="415" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604029650410">

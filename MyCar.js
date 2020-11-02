@@ -44,12 +44,12 @@ export default class MyCar{
     }
 
     moveLeft(){
-        this._positionX -= 25;
+        this._positionX -= 30;
         if(this._positionX <= 100) this._positionX = 100;
     }
 
     moveRight(){
-        this._positionX += 25;
+        this._positionX += 30;
         if(this._positionX >= 360) this._positionX = 360;
     }
 
